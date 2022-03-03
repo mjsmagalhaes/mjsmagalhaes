@@ -1,4 +1,10 @@
-### Hi there 👋
+# Marcos Magalhães
+
+<hr>
+
+Sry, it is a bit blank but I am adding stuff here little by little.
+
+;-)
 
 <!--
 **mjsmagalhaes/mjsmagalhaes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
